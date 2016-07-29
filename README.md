@@ -1,2 +1,1 @@
-# SQPhotoBrowser2.0
-
+# SQPhotoBrowser
